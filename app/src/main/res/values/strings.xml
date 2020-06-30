@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Examiner</string>
+    <string name="log_in">Log in</string>
+    <string name="email">E-mail</string>
+    <string name="password">Password</string>
+    <string name="register">Register here!</string>
+    <string name="title_activity_register">Register</string>
+    <string name="mail">Mail</string>
+    <string name="share">Share</string>
+    <string name="upload">Upload</string>
+    <string name="sistemski">Системски Софтвер</string>
+    <string name="elektrotehnika">Електротехника</string>
+    <string name="java_programiranje">Јава програмирање</string>
+    <string name="veb_dizajn">Веб дизајн</string>
+    <string name="logout">Одјави се</string>
+    <string name="zapocni">Започни</string>
+    <string name="rezultati">Резултати</string>
+    <string name="windows">Windows</string>
+    <string name="linux">Linux</string>
+    <string name="macos">macOS</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
